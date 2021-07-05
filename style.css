@@ -13,7 +13,7 @@ h1{
 
 section{
     display: flex ;
-    
+    margin-bottom: 80px;
 }
 
 .post{
@@ -24,7 +24,7 @@ section{
 
 .pic img{
     width: 75%;
-   margin-left: 1in;
+    margin-left: 1in;
 }
 
 .button{
@@ -41,3 +41,35 @@ section{
     background-image: url(image/new-t.png);
     background-repeat: no-repeat;
 }
+
+.p-2nd{
+    background-image: url(image/side.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.button2{
+    text-decoration: none;
+    background-color: rgb(252, 95, 103) ;
+    background-image: linear-gradient(rgb(248, 95, 6), rgb(248, 147, 53));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.Dream img{
+    width: 75%;
+    margin-left: 1in;
+    margin-bottom: 5px;
+    width: 500px;
+}
+
+.post2{
+  
+    padding-left: 4%;
+
+}
+
+
+
